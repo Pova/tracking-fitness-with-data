@@ -38,11 +38,11 @@ In practice I found it difficult to fully automate authentication token system f
 
 ## Visualizations
 
-[Regents park running route]() 
+[Regents park running route](https://github.com/Pova/tracking-fitness-with-data/blob/main/running_route.png) 
 
 ![image](https://github.com/Pova/tracking-fitness-with-data/assets/25727048/2b95c782-6dc5-460f-b71b-2ad6956c41af)
 
-[running_pace_over_time]()
+[running_pace_over_time](https://github.com/Pova/tracking-fitness-with-data/blob/main/strava_gpx/running_pace_over_time.png)
 
 ![image](https://github.com/Pova/tracking-fitness-with-data/assets/25727048/3c25f828-a8a3-4612-be27-6d886a5b4483)
 
