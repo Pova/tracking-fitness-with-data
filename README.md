@@ -53,6 +53,9 @@ Upload clean data to the PocketBase database connected to the website.
 - [gpx_parse](https://github.com/Pova/tracking-fitness-with-data/blob/main/strava_gpx/gpx_parse.ipynb) - Jupyter notebook that parses .gpx data, outputs clean .csv files
 - [gpx_graph](https://github.com/Pova/tracking-fitness-with-data/blob/main/strava_gpx/gpx_graph.ipynb) - Jupyter notebook with visualizations of running data cleanted with gpx_parse
 
+**JS:**
+- [Renpho_upload](https://github.com/Pova/tracking-fitness-with-data/blob/main/renpho_upload.js) - Javascript script to load up the PocketBase database with Renpho data
+
 **Data:**
 - [strava_gpx_data](https://github.com/Pova/tracking-fitness-with-data/tree/main/strava_gpx/strava_gpx_data) - folder of .gpx files downloaded manually from Strava website (processed with gpx_parse)
 - [Renpho-Roman](https://github.com/Pova/tracking-fitness-with-data/blob/main/Renpho-Roman.csv) - .csv file manually downloaded from iPhone app with scale data 
@@ -62,10 +65,13 @@ Upload clean data to the PocketBase database connected to the website.
 **Results:**
 
 - Successfully set up a website: [romankitsela.com](romankitsela.com) running on a Linode Ubuntu instance
-- Connect the website to a PocketBase database with the subdomain: [pb.romankitsela.com](pb.romankitsela.com) (currently empty).
+- Connect the website to a PocketBase database with the subdomain: [pb.romankitsela.com](pb.romankitsela.com) (loaded with weight data from Renpho)
+
+<img width="1330" alt="Screenshot 2023-06-01 at 12 56 19" src="https://github.com/Pova/tracking-fitness-with-data/assets/25727048/23df601e-f315-4f14-8f79-0f2ef57c5125">
+
 - Download data from Strava (in 2 different ways) and Renpho
 - Transform JSON from the Strava API and .gpx data into more useful and usable formats (.csv files) 
-- Extract value from these in the form of visualizations (**examples below**).
+- Extract value from these in the form of visualizations (**examples below**)
 
 <hr>
 
