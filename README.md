@@ -26,7 +26,7 @@ In practice I found it difficult to fully automate authentication token system f
 ### This repository:
 
 **Notebooks:**
-- [Strava API Project]() - Jupyter notebook to interact with the Strava API, extract data, clean data and perform some visualizations 
+- [Strava API Project](https://github.com/Pova/tracking-fitness-with-data/blob/main/Strava%20API%20project.ipynb) - Jupyter notebook to interact with the Strava API, extract data, clean data and perform some visualizations 
 - [gpx_parse]() - Jupyter notebook that parses .gpx data, outputs clean .csv files
 - [gpx_graph]() - Jupyter notebook with visualizations of running data (input: .csv data, output: graphs) 
 
