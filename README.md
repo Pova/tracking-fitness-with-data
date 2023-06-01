@@ -20,6 +20,7 @@ The goal was to simply see progress towards my goal evidenced in the data and to
 My initial intention was to set up a website that would provide up to date graphics on my current fitness goals progress. The website would have various graphs implemented with D3.js that would use data from a pocketbase database. With a regularly scheduled script the website would query APIs for recent Strava and Renpho data, and update the database as needed.
 
 **Data flowchart:**
+
 <img src="https://github.com/Pova/tracking-fitness-with-data/blob/main/data_flowchart.png" style="height:500px"></img>
 
 **REVISED PLAN:**
