@@ -21,7 +21,7 @@ My initial intention was to set up a website that would provide up to date graph
 
 **Data flowchart:**
 
-<img src="https://github.com/Pova/tracking-fitness-with-data/blob/main/data_flowchart.png" style="height:500px"></img>
+<img src="https://github.com/Pova/tracking-fitness-with-data/blob/main/data_pipeline_plan.jpeg" style="height:500px"></img>
 
 **REVISED PLAN:**
 
