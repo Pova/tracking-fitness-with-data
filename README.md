@@ -27,12 +27,12 @@ In practice I found it difficult to fully automate authentication token system f
 
 **Notebooks:**
 - [Strava API Project](https://github.com/Pova/tracking-fitness-with-data/blob/main/Strava%20API%20project.ipynb) - Jupyter notebook to interact with the Strava API, extract data, clean data and perform some visualizations 
-- [gpx_parse]() - Jupyter notebook that parses .gpx data, outputs clean .csv files
-- [gpx_graph]() - Jupyter notebook with visualizations of running data (input: .csv data, output: graphs) 
+- [gpx_parse](https://github.com/Pova/tracking-fitness-with-data/blob/main/strava_gpx/gpx_parse.ipynb) - Jupyter notebook that parses .gpx data, outputs clean .csv files
+- [gpx_graph](https://github.com/Pova/tracking-fitness-with-data/blob/main/strava_gpx/gpx_graph.ipynb) - Jupyter notebook with visualizations of running data (input: .csv data, output: graphs) 
 
 **Data:**
-- [strava_gpx_data]() - folder of .gpx files downloaded manually from Strava website (processed with gpx_parse)
-- [Renpho-Roman]() - .csv file manually downloaded from iPhone app with scale data 
+- [strava_gpx_data](https://github.com/Pova/tracking-fitness-with-data/tree/main/strava_gpx/strava_gpx_data) - folder of .gpx files downloaded manually from Strava website (processed with gpx_parse)
+- [Renpho-Roman](https://github.com/Pova/tracking-fitness-with-data/blob/main/Renpho-Roman.csv) - .csv file manually downloaded from iPhone app with scale data 
 
 <hr>
 
