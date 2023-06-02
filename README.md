@@ -48,7 +48,7 @@ Upload clean data to the PocketBase database connected to the website.
 
 ### This repository:
 
-**Notebooks:**
+**Notebooks (in python):**
 - [Strava API Project](https://github.com/Pova/tracking-fitness-with-data/blob/main/Strava%20API%20project.ipynb) - Jupyter notebook to interact with the Strava API, extract data, clean data and perform some visualizations 
 - [gpx_parse](https://github.com/Pova/tracking-fitness-with-data/blob/main/strava_gpx/gpx_parse.ipynb) - Jupyter notebook that parses .gpx data, outputs clean .csv files
 - [gpx_graph](https://github.com/Pova/tracking-fitness-with-data/blob/main/strava_gpx/gpx_graph.ipynb) - Jupyter notebook with visualizations of running data cleanted with gpx_parse
