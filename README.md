@@ -98,9 +98,3 @@ There is much to be done and I have an ambitious future state plan for this proj
 ![image](https://github.com/Pova/tracking-fitness-with-data/assets/25727048/3c25f828-a8a3-4612-be27-6d886a5b4483)
 
 <hr>
-
-### For those interested... the route I'm attempting:
-
-![image](https://github.com/Pova/tracking-fitness-with-data/assets/25727048/618d4653-cd41-4bda-94da-97ec19387dc5)
-
-<hr>
